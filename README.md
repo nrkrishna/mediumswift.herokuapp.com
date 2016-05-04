@@ -6,4 +6,4 @@ You can set callback url :
 
 `http://mediumswift.herokuapp.com/callback/{app_name}`
 
-Redirect to `"highlight">"mediumswift://oauth-callback/{app_name}"`
+Redirect to `"highlight">"mediumswift://mediumswift-callback/{app_name}"`

@@ -1,7 +1,9 @@
-# oauthswift.herokuapp.com
+# mediumswift.herokuapp.com
+
+Code curtesy of oauthswift.herokuapp.com
 
 You can set callback url : 
 
-`http://oauthswift.herokuapp.com/callback/{app_name}`
+`http://mediumswift.herokuapp.com/callback/{app_name}`
 
-Redirect to `"highlight">"oauth-swift://oauth-callback/{app_name}"`
+Redirect to `"highlight">"mediumswift://oauth-callback/{app_name}"`

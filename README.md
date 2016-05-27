@@ -1,6 +1,6 @@
 # mediumswift.herokuapp.com
 
-Code curtesy of oauthswift.herokuapp.com
+Code courtesy of oauthswift.herokuapp.com
 
 You can set callback url : 
 

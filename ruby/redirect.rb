@@ -3,7 +3,7 @@
 get "/callback/*" do
   path = request.path.gsub("/callback","")
   path_query = "#{path}?#{request.query_string}"
-  url = "tripchronicle://tripchronicle-callback#{path_query}"  
+  url = "mediumswift://mediumswift-callback#{path_query}"  
   puts url
   redirect url
 end
